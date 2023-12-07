@@ -1,0 +1,14 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "joystick dualsense",
+      "preco": 400
+    },
+    {
+      "nome": "playstation",
+      "preco": 4200,
+      "id": 2
+    }
+  ]
+}
