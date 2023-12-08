@@ -1,14 +1,14 @@
 {
   "produtos": [
     {
-      "id": 1,
-      "nome": "joystick dualsense",
-      "preco": 400
-    },
-    {
-      "nome": "playstation",
+      "nome": "Poly station mito",
       "preco": 4200,
       "id": 2
+    },
+    {
+      "nome": "Poly station mito",
+      "preco": 300,
+      "id": 3
     }
   ]
 }
